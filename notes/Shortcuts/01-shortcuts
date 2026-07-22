@@ -1,0 +1,6 @@
+Ctrl+S — save the current file
+Ctrl+Z — undo the last edit
+Ctrl+P — quickly open a file by typing its name
+`Ctrl+`` — show or hide VS Code’s terminal
+Ctrl+/ — turn selected lines into comments or remove their comment markers
+Ctrl+Left/Right Arrow — move through text one word at a time
